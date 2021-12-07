@@ -1,0 +1,3 @@
+Dataset could be via the following link:
+	https://downloads.tatoeba.org/exports/
+File to download: sentences.csv
