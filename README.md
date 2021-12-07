@@ -2,7 +2,7 @@
 DNN text language recognition model
 
 ## General
-This is a utility project for Language Recognition System.
+This is a utility project for <a href='https://github.com/DragunovK/language-recognition'>Language Recognition project</a>.
 It can be used to prepare a model for DNN method of text language recognition as well as to prepare language profiles for n-gram method of text language recognition.
 It contains 2 utility scripts: 
 * prepare_model.py -- For teaching neural network model
